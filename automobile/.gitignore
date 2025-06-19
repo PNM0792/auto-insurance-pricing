@@ -1,0 +1,7 @@
+# .gitignore
+# Ignore all CSVs inside the automobile/data folder
+automobile/data/*.csv
+
+# Ignore virtual environments if they exist
+venv/
+.venv/
